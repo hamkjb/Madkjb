@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kieran
 - 👀 I’m interested in food, wines, whiskies
-- 🌱 I’m currently learning .Net C# 
+- 🌱 I’m currently learning code .Net C# Python 
 - 📫 How to reach me madkjb@gmail.com
 <!---
 Madkjb/Madkjb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
