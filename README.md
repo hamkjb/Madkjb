@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kieran
-- 👀 I’m interested in food, wines, whiskies
+- 👀 I’m interested in food, wines and whisky
 - 🌱 I’m currently learning code .Net C# Python 
 - 📫 How to reach me madkjb@gmail.com
 <!---
