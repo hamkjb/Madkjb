@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Kieran
-- 👀 I’m interested in food, wines and whisky
 - 🌱 I’m currently learning to code, using C# in the .NET framework to become a Developer 
 - 📫 How to reach me kjbhammond@gmail.com
 <!---
