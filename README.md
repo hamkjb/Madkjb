@@ -1,4 +1,4 @@
-- Hello World, I’m Kieran. Living in the South East coast of England.
+- Hello World. I’m Kieran. Living in the South East coast of England.
 - I’m currently learning to code, self taught using online resources. Starting with web development using HTML/CSS and Javascript/React. Focusing on C# in the .NET framework to start my journey to become a Developer.
 - Reach me hamkjb@gmail.com
 <!---
